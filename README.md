@@ -19,7 +19,7 @@ Docker镜像从``xhofe/alist``改成了``alist666/alist``，若你是Docker安�
 [开发列表(OpenList)](https://openlist.haoqi75.dpdns.org)
 [云端储存](https://opl.qtdt.dpdns.org/)
 ### 其他连接你可能想看
-[Github](https://github.com/haoqi75) / 
+[首页](https://haoqi75.github.io) / 
 [安慰小屋🏡](https://anwen-anyi.github.io/) / 
 [应用列表](https://page.haoqi75.ip-ddns.com/) / 
 [Scratch Turbowarp Tools](https://sbwbt.haoqi75.ip-ddns.com/) / 
