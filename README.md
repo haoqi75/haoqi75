@@ -16,7 +16,7 @@ Docker镜像从``xhofe/alist``改成了``alist666/alist``，若你是Docker安�
 - 若想使用**MoonTV**，请跟管理员联系或自己部署[MoonTV](https://github.com/LunaTechLab/MoonTV)。
 - 被管理员授权的账号密码在[这里](https://openlist.haoqi75.dpdns.org/Onedrive/aphequa758/PASSWORD.md)，请勿创改，后果自负！
 ### 云盘
-[开发列表(OpenList)](https://openlist.haoqi75.dpdns.org)
+[开发列表(OpenList)](https://openlist.haoqi75.dpdns.org) / 
 [云端储存](https://opl.qtdt.dpdns.org/)
 ### 其他连接你可能想看
 [首页](https://haoqi75.github.io) / 
