@@ -1,10 +1,4 @@
-![Logo](./logo.png)
-# 欢迎来到 ApHeQua758页面
-### LANG
-- [English](/index_en.html)
-- 中文
-## 首页
-[![所有应用](./MyApps.gif)](/apps)
+# 欢迎来到 ApHeQua758
 ### 连接缩短器
 [Sleeky Yourls](https://syourls.hsha1312.dpdns.org/)
 ### VPN
