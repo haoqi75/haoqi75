@@ -1,0 +1,20 @@
+[
+  {
+    "name": "VM Scratch Turbowarp",
+    "description": "Scartch/Turbowarp virtual machines UI, extension created by MiloDev123/TW-VME",
+    "url": "https://github.com/haoqi75/st-virtual-machine",
+    "tags": []
+  },
+  {
+    "name": "PureTube",
+    "description": "优雅的无广告 YouTube 播放器",
+    "url": "https://github.com/haoqi75/Youtube-Player-NoAds",
+    "tags": ["player", "youtube", "video", "video-player"]
+  },
+  {
+    "name": "simp-win-video-player",
+    "description": "一个使用Electron.js的Windows视频播放器",
+    "url": "https://github.com/haoqi75/simp-win-video-player",
+    "tags": ["video-player"]
+  }
+]

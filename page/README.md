@@ -1,4 +1,5 @@
-# 欢迎来到 ApHeQua758
+![Logo](./logo.png)
+# 欢迎来到 ApHeQua758页面
 ### 连接缩短器
 [Sleeky Yourls](https://sy.qtdt.dpdns.org/)
 ### VPN
@@ -11,4 +12,16 @@ Docker镜像从``xhofe/alist``改成了``alist666/alist``，若你是Docker安�
 - 现在出现了新的解决方案：[OpenList](https://docs.oplist.org)，也就是说，Alist的朋友。此服务器会转向为它用来代替小雅Alist。[新网盘连接](https://opls.haoqi75.qzz.io)（现在已经完美支持到服务器了，以后会开始启用。[相关链接](https://question.run.claw.cloud/questions/10010000000001316)）。
 - 从2025年8月26日起，MoonTV在次开源，也不会再有授权码，但很可惜他停更了。
 ### 其他连接你可能想看
-[首页](https://p.haoqi75.qzz.io)
+[Github](https://github.com/haoqi75) / 
+[安慰小屋🏡](https://anwen-anyi.github.io/) / 
+[应用列表](https://page.haoqi75.ip-ddns.com/) / 
+[Scratch Turbowarp Tools](https://sbwbt.haoqi75.ip-ddns.com/) / 
+[博客](https://miblog.haoqi75.ip-ddns.com/) / 
+[Aria2-Ariang下载器](https://aria2-ariang.haoqi75.ip-ddns.com/) / 
+[MoonTV](https://mtv.qtdt.dpdns.org/) / 
+~~[LibreTV](https://lt.haoqi75.dpdns.org/)``(登录后获取密码)``~~ / 
+电报图床([连接](https://tph.haoqi75.qzz.io/)/[电报](https://t.me/hqtpho)) / 
+[SubsTracker订阅管理系统](https://github.com/wangwangit/SubsTracker/tree/master) / 
+[Milo Santos网页](https://milosantos.com/) / 
+[Milo Santos的NextCloud](https://cloud.milosantos.com/) / 
+[Milo Santos Github](https://github.com/MiloDev123)

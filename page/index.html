@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ApHeQua758页面</title>
+  <!-- Favicon（替换为你的图标链接） -->
+  <link rel="icon" href="https://github.githubassets.com/favicons/favicon.png">
+  <!-- 使用 Marked.js 渲染 Markdown -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <!-- 代码高亮（Prism.js） -->
+  <link href="https://cdn.jsdelivr.net/npm/prismjs@1/themes/prism-tomorrow.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-core.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/plugins/autoloader/prism-autoloader.min.js"></script>
+  <!-- 自定义 CSS -->
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <!-- 动态背景 -->
+  <div class="gradient-bg"></div>
+  <!-- 主内容卡片 -->
+  <div class="card">
+    <div id="content"></div>
+  </div>
+  <!-- 加载 README.md 并渲染 -->
+  <script>
+    fetch('README.md')
+      .then(response => response.text())
+      .then(markdown => {
+        document.getElementById('content').innerHTML = marked.parse(markdown);
+        // 代码高亮
+        Prism.highlightAll();
+      });
+  </script>
+</body>
+</html>
