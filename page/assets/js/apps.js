@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const searchInput = document.getElementById('search-input');
 
   // 从 JSON 加载应用
-  fetch('app-list.json')
+  fetch('/assets/json/app-list.json')
     .then(response => response.json())
     .then(apps => {
       renderApps(apps);
