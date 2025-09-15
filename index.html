@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ApHeQua758页面</title>
+  <title>Markdown</title>
   <link rel="icon" href="/favicon.png">
   <script src="/head.js"></script>
   <link rel="stylesheet" href="/style.css">
@@ -11,8 +11,18 @@
 <body>
   <div class="gradient-bg"></div>
   <div class="card">
+    <div class="header">
+      <button id="toc-toggle" class="toc-toggle">📑 大纲</button>
+    </div>
+    <div id="toc-sidebar" class="toc-sidebar">
+      <div class="toc-header">
+        <h3>📋 文档大纲</h3>
+        <button class="toc-close" onclick="toggleTOC()">×</button>
+      </div>
+      <div id="toc-content"></div>
+    </div>
     <div id="content"></div>
   </div>
-  <script  src="/script.js"></script>
+  <script src="/script.js"></script>
 </body>
 </html>
